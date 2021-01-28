@@ -6,7 +6,7 @@ The aim of project is to develop a predictive model approach to identify key fac
 [Overview](#Overview)  
 [AIM](#AIM)  
 [Approach](#Approach)  
-[Technical Aspect](#Technical Aspect) 
+[TechnicalAspect](#TechnicalAspect) 
 [Conclusion](#Conclusion)
 
 ## Overview
