@@ -17,12 +17,12 @@ The aim of project is to build a modell approach to identify the key factors whi
 
 ## Approach'
 Following CRISP-DM approach to build a linear regression model. 
-* • Business Understanding. 
-* • Data Understanding. 
-* • Data Preparation. 
-* • Modeling. 
-* • Evaluation. 
-* • Deployment.
+*  Business Understanding. 
+*  Data Understanding. 
+*  Data Preparation. 
+*  Modeling. 
+*  Evaluation. 
+*  Deployment.
 
 
 
