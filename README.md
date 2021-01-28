@@ -22,7 +22,8 @@ Following CRISP-DM approach to build a linear regression model.
 *  Data Preparation. 
 *  Modeling. 
 *  Evaluation. 
-*  Deployment.
+
+## 
 
 
 
