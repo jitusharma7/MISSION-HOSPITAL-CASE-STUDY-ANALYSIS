@@ -23,7 +23,12 @@ Following CRISP-DM approach to build a linear regression model.
 *  Modeling. 
 *  Evaluation. 
 
-## 
+## TechnicalAspect
+Find Significant Variables - using coorealtion matrix and correaltion graph
+Develope forward Multiple Regression Model
+Model Performance Metric - Adjsted R2 - 0.84 
+Check linear Regression - 
+
 
 
 
