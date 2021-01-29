@@ -24,10 +24,25 @@ Following CRISP-DM approach to build a linear regression model.
 *  Evaluation. 
 
 ## TechnicalAspect
-Find Significant Variables - using coorealtion matrix and correaltion graph
+Find Significant Variables - using coorealtion matrix and correaltion ![GitHub Logo](/images/logo.png)
+Unordered
+1. Item 1
+2. Item 2
+3. Item 3
+* Item
 Develope forward Multiple Regression Model
 Model Performance Metric - Adjsted R2 - 0.84 
-Check linear Regression - 
+Check linear Regression Assumption - Homoscedasticity,
+
+## Conclusion
+
+
+The Regression equations for the above mentioned four models are as follows:
+Model :
+Total cost to hospital = 7161 + 335.4*(Body Height) + 4680*(Total length of stay) + 22940*(Length of stay in ICU) + 1.73*(cost of implant)
+
+.With the accurcy of 84% of the model, the significatnvariables which are key factor to drive the the total length of stay, length of stay in ICU and cost of implant.with these variables, any one of the following variables can be used: Age, height or weight.
+
 
 
 
