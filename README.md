@@ -7,7 +7,7 @@ The aim of project is to develop a predictive model approach to identify key fac
 [AIM](#AIM)  
 [Approach](#Approach)  
 [TechnicalAspect](#TechnicalAspect) 
-[Conclusion] (#Conclusion)
+[Conclusion](#Conclusion)
 
 ## Overview
 Mission Hospital is considering adoption of fixed package pricing make its pricing policies more transparent while providing the best care available to its patients. Thereby satisfying needs of both patients and hospitals.Currently the hospital are facing challenges in estimatin pricing package to be given to patients at time of admission.Hospital is required to build a model to help the hospital determine the approximate cost associated with the patient’s treatment which is calculated on the basis of patient's clinical and non-clinical information available at the time of admission, so that the Hospital can charge the patient accordingly.
