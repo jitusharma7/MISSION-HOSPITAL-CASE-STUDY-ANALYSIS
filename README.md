@@ -24,7 +24,8 @@ Following CRISP-DM approach to build a linear regression model.
 *  Evaluation. 
 
 ## TechnicalAspect
-Find Significant Variables - using coorealtion matrix 
+Find Significant Variables - using coorealtion matrix ![Correlation Heatmap](https://user-images.githubusercontent.com/70143009/106358027-b539aa00-632f-11eb-8aa3-b1bd46f2f390.png)
+
 Develope **forward Multiple Regression Model**
 Model Performance Metric - **Adjsted R2 - 0.84**
 Check linear Regression Assumption - Homoscedasticity
