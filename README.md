@@ -6,7 +6,7 @@ The project aims to develop a predictive model approach to identify key factors 
 [Overview](#Overview)  
 [AIM](#AIM)  
 [Approach](#Approach)  
-[Technical Aspect](#Technical Aspect) 
+[Technical Aspect](#Technical_Aspect) 
 [Conclusion](#Conclusion)
 
 ## Overview
